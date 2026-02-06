@@ -1,1 +1,2 @@
 This is file number 1. 
+File was added to github.
